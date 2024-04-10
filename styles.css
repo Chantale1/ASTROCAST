@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Astrocast Application</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin : 0;
+            padding : 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Astrocast</h1>
+    </header>
+
+    <main>
+        <p>Explore the wonders of space with Astrocast!</p>
+        <img src="https://via.placeholder.com/600x300" alt="Astrocast Image">
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Astrocast Application</p>
+    </footer>
+</body>
+</html>
