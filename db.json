@@ -1,0 +1,50 @@
+{
+    "cities": [
+      {
+        "id": 1,
+        "name": "Nairobi",
+        "forecast": {
+          "date": "2024-04-12",
+          "temperature": 25,
+          "weather": "Sunny"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Nakuru",
+        "forecast": {
+          "date": "2024-04-12",
+          "temperature": 22,
+          "weather": "Partly Cloudy"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Kisumu",
+        "forecast": {
+          "date": "2024-04-12",
+          "temperature": 24,
+          "weather": "Scattered Thunderstorms"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Mombasa",
+        "forecast": {
+          "date": "2024-04-12",
+          "temperature": 28,
+          "weather": "Rain Showers"
+        }
+      },
+      {
+        "id": 5,
+        "name": "Diani",
+        "forecast": {
+          "date": "2024-04-12",
+          "temperature": 29,
+          "weather": "Partly Cloudy"
+        }
+      }
+    ]
+  }
+  
